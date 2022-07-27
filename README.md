@@ -106,5 +106,7 @@ nature We get to understand and live God's beautiful creations through these par
 
 
 *Sentences in Original passage = 53*
+
 *Sentences in summary = 26*
+
 *% sentences reduced = 50.943396226415096 %*
