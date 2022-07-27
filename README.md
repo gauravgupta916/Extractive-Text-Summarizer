@@ -13,7 +13,7 @@ Abstractive methods select words based on semantic understanding, even those wor
 Extractive methods attempt to summarize articles by selecting a subset of words that retain the most important points. This approach weights the important part of sentences and uses the same to form the summary. Different algorithm and techniques are used to define weights for the sentences and further rank them based on importance and similarity among each other.
 
 ### Why did I choose Extractive Summarizer over its Abstractive counterpart ?
-The limited study is available for abstractive summarization as it requires a deeper understanding of the text as compared to the extractive approach.
+Limited study is available for abstractive summarization as it requires a deeper understanding of the text as compared to the extractive approach.
 Purely extractive summaries often times give better results compared to automatic abstractive summaries. This is because of the fact that abstractive summarization methods cope with problems such as semantic representation, inference and natural language generation which is relatively harder than data-driven approaches such as sentence extraction.
 
 ## Table of Contents
